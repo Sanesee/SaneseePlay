@@ -1,2 +1,2 @@
 # SaneseePlay
-Welcome to use SaneseePlay
+Welcome!
